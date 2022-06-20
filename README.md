@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
 </div>
-
+<--
 ###
 
 <br clear="both">
@@ -41,3 +41,4 @@
 <img href="https://raw.githubusercontent.com/MateusHEsteves/MateusHEsteves/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
